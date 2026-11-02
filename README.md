@@ -1,3 +1,7 @@
+<img width="327" height="674" alt="Screenshot 2026-11-02 at 15 42 29" src="https://github.com/user-attachments/assets/c15c0de6-018c-44ce-b860-4f2c511d5b69" />
+<img width="351" height="671" alt="Screenshot 2026-11-02 at 15 42 57" src="https://github.com/user-attachments/assets/65f9cbcf-dd19-4676-9c6c-1f3d3367aa58" />
+<img width="342" height="678" alt="Screenshot 2026-11-02 at 15 43 08" src="https://github.com/user-attachments/assets/140acaba-8aa4-424c-9c96-ee53d280ed37" />
+<img width="369" height="763" alt="Screenshot 2026-11-02 at 11 11 32" src="https://github.com/user-attachments/assets/3f1e136d-95a3-4ebe-802b-006fb3611d71" />
 # LockIn Mobile Application
 
 # LockIn App
